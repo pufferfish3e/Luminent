@@ -94,7 +94,7 @@ It’s not just another “AI idea generator.” It’s a self-contained innovat
 
 ### **Key Differentiators (Problem Fixes Addressed)**
 
-|**Common Objection**|**How IdeaForge Solves It**|
+|**Common Objection**|**How Luminent Solves It**|
 |---|---|
 |“I can already find competitors with Google.”|Adds AI ranking, summarization, and gap detection to synthesize insights instead of showing raw links.|
 |“ChatGPT can already brainstorm ideas for me.”|Focuses on validation and structured evolution — not brainstorming. Outputs actionable startup-grade artifacts.|
