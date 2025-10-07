@@ -1,8 +1,4 @@
-**Name:**  
-**IdeaForge**
-
-**Description:**  
-A web platform that transforms any raw idea into a structured, investor-ready startup concept. Built for students, hackathon participants, and first-time founders, IdeaForge blends market research, AI-driven competitive analysis, and guided validation to bridge the gap between “concept” and “viable product.”
+ Luminent is a web platform that transforms any raw idea into a structured, investor-ready startup concept. Built for students, hackathon participants, and first-time founders, IdeaForge blends market research, AI-driven competitive analysis, and guided validation to bridge the gap between “concept” and “viable product.”
 
 It’s not just another “AI idea generator.” It’s a self-contained innovation engine — sourcing real data, ranking opportunities, and guiding users to refine their ideas into feasible, differentiated, enterprise-grade startup concepts.
 
